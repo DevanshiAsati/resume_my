@@ -1,0 +1,15 @@
+ #heading{
+    background-color: black;
+    color: white;
+    padding: 10px;
+ }
+ 
+ body{
+    background-color: rgb(186, 186, 203);
+    text-align: justify;
+   
+ }
+ div{
+    padding: 10px; 
+    background-color: white; 
+  }
